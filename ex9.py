@@ -6,6 +6,7 @@ months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 print "Here are the days:", days
 print "Here are the months:", months
 
+# print out the strings inside """ and """ 
 print """
 There's something going on here.
 with the three double-quotes. 
