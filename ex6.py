@@ -13,8 +13,8 @@ print "I said: %r." % x
 print "I also said: '%s'." % y
 
 hilarious = True
-# I don't understand the code below
-joke_evaluation = "Isn't that joke so funny?! %r"
+# I don't understand the code below, I understand it now... 
+joke_evaluation = "Isn't that joke so funny?! %r" 
 
 # don't understand the % sign
 print joke_evaluation % hilarious

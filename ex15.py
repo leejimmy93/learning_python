@@ -14,4 +14,4 @@ txt_again = open(file_again) # open the variable
 
 print txt_again.read() # read and print out the variable content
 
-txt_again.close() # don't know how to close a file
+txt_again.close() 
